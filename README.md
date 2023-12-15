@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikewil245
+- 👋 Hi, I’m Michael Wilson
 - 🌱 I’m currently learning ... HTML,CSS & javaScript
 - 📫 How to reach me ... @m08169071@gmail.com
 
