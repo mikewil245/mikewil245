@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mikewil245
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... HTML,CSS & javaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @m08169071@gmail.com
 
 <!---
